@@ -3,6 +3,6 @@ This is also added by the third_row_branch juh���
 
 1. First Commit added this line
 
-2. Second Commit added second line
+2. Second Commit added second line (new_stuff_2)
 
 3. Third Commit added third line (modify third row wow)
