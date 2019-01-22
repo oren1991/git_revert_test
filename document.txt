@@ -1,10 +1,8 @@
-This is my initial commit
+﻿This is my initial commit
 This is also added by the third_row_branch juh���
 
 1. First Commit added this line
 
-2. Second Commit added second line (I modify this in this branch)
-I added this line in this branch wow still second line branch
+2. Second Commit added second line
 
 3. Third Commit added third line (modify third row wow)
-This is also a second line change branch change wow
