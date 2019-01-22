@@ -1,7 +1,7 @@
 ﻿This is my initial commit
 This is also added by the third_row_branch juh���
 
-1. First Commit added this line
+1. First Commit added this line (new_stuff)
 
 2. Second Commit added second line
 
